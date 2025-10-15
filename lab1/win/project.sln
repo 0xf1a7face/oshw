@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "number", "number\number.vcxproj", "{7FF34B69-17BB-4E1C-928F-A8A1597F34C8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vector", "vector\vector.vcxproj", "{20AC0B18-437E-45C0-8F55-600D1AFB9B48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "main", "main\main.vcxproj", "{12CCBF7C-962C-49CB-A979-F87F1EEF6C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF34B69-17BB-4E1C-928F-A8A1597F34C8}.Debug|x64.ActiveCfg = Debug|x64
+		{7FF34B69-17BB-4E1C-928F-A8A1597F34C8}.Debug|x64.Build.0 = Debug|x64
+		{7FF34B69-17BB-4E1C-928F-A8A1597F34C8}.Release|x64.ActiveCfg = Release|x64
+		{7FF34B69-17BB-4E1C-928F-A8A1597F34C8}.Release|x64.Build.0 = Release|x64
+		{20AC0B18-437E-45C0-8F55-600D1AFB9B48}.Debug|x64.ActiveCfg = Debug|x64
+		{20AC0B18-437E-45C0-8F55-600D1AFB9B48}.Debug|x64.Build.0 = Debug|x64
+		{20AC0B18-437E-45C0-8F55-600D1AFB9B48}.Release|x64.ActiveCfg = Release|x64
+		{20AC0B18-437E-45C0-8F55-600D1AFB9B48}.Release|x64.Build.0 = Release|x64
+		{12CCBF7C-962C-49CB-A979-F87F1EEF6C4A}.Debug|x64.ActiveCfg = Debug|x64
+		{12CCBF7C-962C-49CB-A979-F87F1EEF6C4A}.Debug|x64.Build.0 = Debug|x64
+		{12CCBF7C-962C-49CB-A979-F87F1EEF6C4A}.Release|x64.ActiveCfg = Release|x64
+		{12CCBF7C-962C-49CB-A979-F87F1EEF6C4A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
